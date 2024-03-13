@@ -11,6 +11,11 @@ const diccionario = {
     i: "imes",
     o: "ober",
     u: "ufat"
+    á: "ai",
+    é: "enter",
+    í: "imes",
+    ó: "ober",
+    ú: "ufat"
 };
 
 // Boton Encriptar 
